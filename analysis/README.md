@@ -1,0 +1,1 @@
+No executable analysis script is released in this package. The manuscript reports an evidence-constrained hypothesis rather than a new computational result. Historical model scripts were excluded because they were exploratory, uncalibrated, or not publication-relevant.

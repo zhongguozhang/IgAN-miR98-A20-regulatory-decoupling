@@ -1,0 +1,18 @@
+edge_id,biological_edge,cell_context,intervention_or_readout,evidence_grade,final_status,context_boundary,reference_or_record
+E01,miR-98-5p -> TNFAIP3/A20,mouse RAW264.7 macrophage,LPS; miR-98 interference/reported reporter,B_CROSS_CONTEXT,PARTIAL,No human renal evidence; WT/MUT details unverified,PMID 32771556
+E02,miR-98-5p -> TNFAIP3/A20,human IgAN mesangial cell,No retained direct experiment,E_UNRESOLVED,NOT_FOUND,Do not transfer from macrophage,V07B
+E03,miR-98-5p -> C1GALT1,DAKIKI human IgAN B-lymphoblast surrogate,mimic/reporter/rescue chain,A_DIRECT,DIRECT_SURROGATE,Not mature plasma-cell evidence,PMCID PMC8085534
+E04,C1GALT1 low -> Gd-IgA1 high,DAKIKI surrogate,functional glycosylation readout,A_DIRECT,DIRECT_SURROGATE,State transfer to plasma cells remains conditional,PMCID PMC8085534
+E05,A20 -> NF-kB,nonrenal or mixed contexts,direct molecular or functional evidence,B_CROSS_CONTEXT,DIRECT_OTHER_CELL,No exact IgAN-HMC gain/loss,PMID 14748687
+E06,A20 -> ERK/JNK/p38,human mesangial cells,IL-1; A20 overexpression,B_CROSS_CONTEXT,DIRECT_RENAL_OTHER_STIMULUS,Not pathogenic IgA/CIC,PMID 26648169
+E07,A20 -> ASK1/JNK,nonrenal cells,binding/ubiquitination/degradation,B_CROSS_CONTEXT,DIRECT_OTHER_CELL,No HMC/IgAN transfer,PMID 32398666
+E08,A20 -> TRAF6/TAK1,cross-context,receptor-proximal ubiquitin platform,B_CROSS_CONTEXT,DIRECT_OTHER_CELL,No exact HMC evidence,V08C2 audit
+E09,NF-kB/RELA -> SERPINE1/PAI-1,mouse lung epithelium,promoter occupancy/reporter,B_CROSS_CONTEXT,DIRECT_OTHER_CELL,Not human IgAN MES,PMID 36140551
+E10,A20 -> PAI-1,any exact context,composed via NF-kB only,E_UNRESOLVED,INDIRECT_VIA_NFKB,No direct A20-PAI-1 experiment retained,V08C2 audit
+E11,IgAN IgA/CIC -> MES activation/IL-6,human mesangial,patient abnormal IgA/pIgA stimulation,A_DIRECT,NEAR_EXACT,Activation/output evidence; no source withdrawal,PMID 24244351
+E12,IgAN-stimulated MES -> podocyte injury,human HMC to human podocyte,conditioned medium; mediator-specific studies,A_DIRECT,DIRECT_CROSS_CELL,PAF strongest; other mediators stratified,PMID 20016469
+E13,IL-6 -> ERK,general signaling,gp130/SHP2/Ras/Raf/MEK biology,B_CROSS_CONTEXT,GENERAL_SIGNALING,No retained direct human IgAN-MES chain,V08C/V09 audit
+E14,ERK -> renal fibrosis,renal and cross-context,association/intervention varies by endpoint,B_CROSS_CONTEXT,CONTEXT_DEPENDENT,Do not call ERK a single fibrosis driver,V08C1/V08C2
+E15,podocyte miR-98-5p effect,human IgAN podocyte,No retained direct perturbation,E_UNRESOLVED,NOT_FOUND,No MES-to-podocyte copying,V08D
+E16,S-I-R patient-selection framework,patient data,conceptual integration only,C_COMPUTATIONAL,CONCEPTUAL,Not a clinical classifier; three-axis pairing absent,V09A/V09A.2
+E17,miR-98 plus A20 target protection,therapeutic design,no direct combination experiment,D_HYPOTHESIS,FALSIFIABLE_DESIGN,No drug simulation or efficacy claim,V07B/V10

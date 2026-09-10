@@ -1,0 +1,16 @@
+V1.0 reference audit
+
+Policy,Primary records are preferred. Unverified bibliographic fields are explicitly marked and cannot support Level A alone.
+
+
+Reference_ID,Title / short description,PMID,DOI,Primary_or_review,Species,Cell_type,Disease/context,Supports claim,Level
+R01,miR-98-5p/TNFAIP3 report,32771556,REFERENCE_UNVERIFIED,Primary,mouse,RAW264.7 macrophage,LPS,miR-98/A20 cross-context partial support,B
+R02,let-7a/e TNFAIP3 reporter,26110642,REFERENCE_UNVERIFIED,Primary,human,HEK293T,lupus nephritis associated,Family control only; not miR-98,E
+R03,AS-IV DAKIKI miR-98/C1GALT1 study,not_verified,10.3389/fphar.2021.658236,Primary,human,DAKIKI B-lymphoblast surrogate,pediatric IgAN study,miR-98/C1GALT1 functional surrogate chain,A
+R04,A20 restricts NF-kB activation,14748687,10.1038/nature02903,Primary,multiple,multiple,cross-context,A20/NF-kB molecular mechanism,B
+R05,A20 in IL-1 stimulated HMC,26648169,10.1038/srep18007,Primary,human,mesangial cells,IL-1,A20→ERK/JNK/p38 stimulus-specific,B
+R06,A20–ASK1–JNK study,32398666,10.1038/s41419-020-2587-3,Primary,human,multiple nonrenal,TNF-related,A20→ASK1/JNK cross-context,B
+R07,RELA–SERPINE1 promoter study,36140551,10.1016/j.bbadis.2022.166503,Primary,mouse,lung epithelium,injury,NF-kB→PAI-1 cross-context,B
+R08,IgAN MES to PODO PAF bridge,20016469,10.1038/ki.2009.473,Primary,human,HMC to podocyte,IgAN abnormal IgA,mediator-specific bridge,A
+R09,IgAN renal activation/IL-6 HMC evidence,24244351,10.1002/art.38176,Primary,human,mesangial cells,IgAN,CIC/IgA activation output,A
+R10,Pathology-linked IgAN renal transcriptome,32938960,10.1038/s41598-020-72026-2,Primary,human,kidney biopsy,IgAN,renal molecular/pathology cohort,B

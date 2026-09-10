@@ -1,0 +1,8 @@
+Public_path,Source_path,Type,Used_in_study,Executed,License_status,Privacy_pass,Copyright_pass,Description
+README.md,author_generated,Markdown,YES,N/A,manual_author_selection,YES,YES,Repository overview and boundaries
+evidence/evidence_matrix.csv,V1.0 frozen xlsx export,CSV,YES,N/A,manual_author_selection,YES,YES,Derived frozen evidence table
+evidence/claim_matrix.csv,V1.0 frozen xlsx export,CSV,YES,N/A,manual_author_selection,YES,YES,Derived frozen claim table
+evidence/reference_audit.csv,V1.0 frozen xlsx export,CSV,YES,N/A,manual_author_selection,YES,YES,Derived reference audit
+evidence/limitations_registry.csv,V1.0 frozen xlsx export,CSV,YES,N/A,manual_author_selection,YES,YES,Derived limitations registry
+figures_source/*.png,author_generated,PNG,YES,N/A,manual_author_selection,YES,YES,Conceptual evidence-status diagrams
+analysis/README.md,author_generated,Markdown,YES,N/A,manual_author_selection,YES,YES,Explains exclusion of historical scripts

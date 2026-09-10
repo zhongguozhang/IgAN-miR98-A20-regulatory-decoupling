@@ -1,0 +1,1 @@
+Direct: experimentally supported in the stated source context. Cross-context: direct or functional support outside the required context. Computational: reconstruction result only. Hypothesis: proposed but untested. Unresolved: no qualifying evidence in required context.

@@ -1,0 +1,18 @@
+V1.0 limitations registry
+
+Interpretation,"Open limitations define manuscript boundaries, not negative biological findings."
+
+
+Limitation_ID,Limitation,Consequence,Required mitigation,Status
+L01,No direct human therapeutic experiment,No efficacy claim,Cell and animal validation,OPEN
+L02,No animal therapeutic validation,No in-vivo translational claim,Appropriate disease-model study after cell gate,OPEN
+L03,miR-98–A20 exact-context uncertainty,Blockmir rationale is unproven,WT/MUT reporter and rescue in relevant HMC,CRITICAL
+L04,Blockmir delivery uncertainty,Selective protection may be biologically impractical,Delivery and selectivity testing,CRITICAL
+L05,MES/PODO delivery uncertainty,Cross-compartment safety unknown,Independent cell-type assays,OPEN
+L06,Targetome complexity/off-target risk,miRNA mimic effects cannot be presumed selective,Targetome and phenotype profiling,OPEN
+L07,Cell-state heterogeneity,DAKIKI cannot stand for BN/BA/PB/PC,State-resolved validation,OPEN
+L08,Cross-context evidence dependence,No exact-context causality,Context-specific experiments,CRITICAL
+L09,No patient-level S-I-R dataset,No clinical classifier,Paired source/renal/pathology cohort,CRITICAL
+L10,No longitudinal reset dataset,No persistent-state clinical claim,Longitudinal paired sampling,CRITICAL
+L11,No head-to-head steroid comparison,No replacement or superiority claim,Direct comparative study,OPEN
+L12,No clinical efficacy evidence,No treatment recommendation,Clinical development after preclinical gates,OPEN

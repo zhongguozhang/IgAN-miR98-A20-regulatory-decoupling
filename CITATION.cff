@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite them as described below."
+title: "Evidence and analysis materials for the miR-98-5p/TNFAIP3-A20 regulatory-decoupling hypothesis in IgA nephropathy"
+version: 1.0.0
+authors:
+  - family-names: Zhang
+    given-names: Zhongguo
+repository-code: "https://github.com/zhongguozhang/IgAN-miR98-A20-regulatory-decoupling"

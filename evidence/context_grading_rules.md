@@ -1,0 +1,1 @@
+Direct, cross-context, computational, hypothesis, and unresolved are mutually exclusive manuscript grades. Any species, cell-type, stimulus, disease, or compartment mismatch downgrades context; DAKIKI is not mature plasma-cell or renal evidence, and mesangial mechanisms are not assigned to podocytes without independent evidence.
